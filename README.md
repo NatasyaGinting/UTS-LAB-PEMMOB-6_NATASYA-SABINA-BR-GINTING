@@ -37,10 +37,10 @@ Referensi desain 2 [Figma](https://www.figma.com/design/P3y3zv20qA19xWRaK5dV1e/Q
 ## Screenshot Demo Aplikasi ##
 
 
-Screenshot Demo Aplikasi[Demo]()
+Screenshot Demo Aplikasi [Demo]()
 
 
 ## Link mockup/prototype Aplikasi ##
 
 
-Link mockup/prototype Aplikasi[Figma](https://www.figma.com/design/PJcSpdvdc7qpf6ugWCjSnk/UTS-LAB-PEMMOB_QUIZ-APP?node-id=6-709&p=f&t=WPODx1Xzp5HuTWhv-0)
+Link mockup/prototype Aplikasi [Figma](https://www.figma.com/design/PJcSpdvdc7qpf6ugWCjSnk/UTS-LAB-PEMMOB_QUIZ-APP?node-id=6-709&p=f&t=WPODx1Xzp5HuTWhv-0)

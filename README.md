@@ -37,7 +37,7 @@ Referensi desain 2 [Figma](https://www.figma.com/design/P3y3zv20qA19xWRaK5dV1e/Q
 ## Screenshot Demo Aplikasi ##
 
 
-Screenshot Demo Aplikasi [Demo]()
+Screenshot Demo Aplikasi [Demo](https://docs.google.com/document/d/1FvG25pRW38sYAX2oXjzHmrFkJbULGttnG8SxTolNbqw/edit?usp=sharing)
 
 
 ## Link mockup/prototype Aplikasi ##
